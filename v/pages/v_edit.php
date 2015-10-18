@@ -1,0 +1,1 @@
+<? //This file is the property of «Duckcode», Russia
