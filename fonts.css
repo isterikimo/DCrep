@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MyriadPro-Cond';
+    src: url('/fonts/MyriadPro-Cond.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Chickpeas';
+    src: url('/fonts/Chickpeas.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

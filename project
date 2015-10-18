@@ -1,0 +1,49 @@
+<NotepadPlus>
+    <Project name="happykids">
+        <Folder name="c">
+            <File name="c\c_ article.php" />
+            <File name="c\c_about.php" />
+            <File name="c\c_articles.php" />
+            <File name="c\c_base.php" />
+            <File name="c\c_contacts.php" />
+            <File name="c\c_controller.php" />
+            <File name="c\c_main.php" />
+            <File name="c\c_new.php" />
+            <File name="c\c_news.php" />
+            <File name="c\c_portfolio.php" />
+            <File name="c\c_services.php" />
+            <File name="c\c_singlenews.php" />
+        </Folder>
+        <Folder name="fonts" />
+        <Folder name="img">
+            <File name="img\385440_grustno_devochka_grust_deti_krasivye_detstvo_reben_7500x5000_www.Gde-Fon.com.jpg" />
+            <File name="img\&#x0434;&#x0435;&#x0442;&#x0438;-3.jpg" />
+        </Folder>
+        <Folder name="m">
+            <File name="m\m_article.php" />
+            <File name="m\m_lib.php" />
+            <File name="m\m_mysql.php" />
+            <File name="m\m_session.php" />
+            <File name="m\m_user.php" />
+        </Folder>
+        <Folder name="v">
+            <File name="v\v_ article.php" />
+            <File name="v\v_about.php" />
+            <File name="v\v_articles.php" />
+            <File name="v\v_contacts.php" />
+            <File name="v\v_error.php" />
+            <File name="v\v_footer.php" />
+            <File name="v\v_header.php" />
+            <File name="v\v_main.php" />
+            <File name="v\v_new.php" />
+            <File name="v\v_news.php" />
+            <File name="v\v_portfolio.php" />
+            <File name="v\v_services.php" />
+            <File name="v\v_singlenews.php" />
+            <File name="v\v_startpage.php" />
+        </Folder>
+        <File name="fonts.css" />
+        <File name="index.php" />
+        <File name="style.css" />
+    </Project>
+</NotepadPlus>
